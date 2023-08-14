@@ -1,8 +1,10 @@
 <h1>😀🎉Olá, seja bem vindo ao meu github!!!</h1>
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCenedes&theme=radical)](https://github.com/LeonardoCenedes/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCenedes&theme=synthwave)](https://github.com/LeonardoCenedes/github-readme-stats)
 </div>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCenedes&layout=compact)](https://github.com/LeonardoCenedes/github-readme-stats)
 
