@@ -1,7 +1,7 @@
 <h1>😀🎉Olá, seja bem vindo ao meu github!!!</h1>
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCoradeli&theme=radical)](https://github.com/LeonardoCoradeli/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCenedes&theme=radical)](https://github.com/LeonardoCenedes/github-readme-stats)
 </div>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
